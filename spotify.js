@@ -2,120 +2,61 @@
 let loveSongs=[
      
    "song11.mp3",
-    "song22.mp3",
     "song33.mp3",
-    "song44.mp3",
-    "song55.mp3",
-    "song66.mp3",
-    "song77.mp3",
-    "song88.mp3",
-    "song99.mp3",
-    "song10.mp3"
+    "song44.mp3"
    
 ];
 
 let loveImages=[
-   "image1.webp",
-    "image3.webp",
-    "image4.webp",
-    "https://tse2.mm.bing.net/th?id=OIP.sPC4RMraieX4Gq6Guzvn8QHaE8&pid=Api&P=0&h=180",
-    "https://tse4.mm.bing.net/th?id=OIP.vHIW85gxCDJHdGLZRv35PAHaE8&pid=Api&P=0&h=180",
-    "https://tse3.mm.bing.net/th?id=OIP.7AAhNwczBtW2Py26dDdmogAAAA&pid=Api&P=0&h=180",
-    "lover.jpg",
-    "https://tse4.mm.bing.net/th?id=OIP.53JidrVvXPvBoM8_ivT3oQHaEK&pid=Api&P=0&h=180",
-    "https://tse1.mm.bing.net/th?id=OIP.o-eriDKghU_uTpSxK95iNQHaEK&pid=Api&P=0&h=180",
-    "https://tse3.mm.bing.net/th?id=OIP.zhi3UHyhn5cFmeDgCXy02QHaHa&pid=Api&P=0&h=180"
-  
+   "https://tse2.mm.bing.net/th?id=OIP.XKCCJede8pegEiHCg4wuCAHaF3&pid=Api&P=0&h=180",
+   "https://tse3.mm.bing.net/th?id=OIP.upIT5YVtRkQNeecn7_Zf7QHaEK&pid=Api&P=0&h=180",
+    "https://tse4.mm.bing.net/th?id=OIP.jS9XL-WL3ZoIenKLdjn_-wHaEK&pid=Api&P=0&h=180"
 ];
    
 
 let loveTitles=[
     "yedhe-yedhe",
-    "Madhuvarame",
+    
     "preme velluva",
-    "Ee Raathale",
-    "Inthandham",
-    "Ninnila Ninnila",
-    "adbhutam",
-    "pilla o pilla",
-    "naanaa hyraanaa",
-    "yedurangula Vaana"
+    "Ee Raathale"
     
 ];
 let melodySongs=[
 "song21.mp3",
 "song22.mp3",
-"song23.mp3",
- "song24.mp3",
-"song25.mp3",
- "song26.mp3",
-"song27.mp3",
-"song28.mp3",
-"song29.mp3",
-"song30.mp3"
+ "song24.mp3"
 ];
 
 let melodyImages=[
-    "image21.jpg",
-    "image22.jpg",
-     "image23.jpg",
+    "https://tse3.mm.bing.net/th?id=OIP.kFuNCH5fanvujCt_PzpiCwHaEK&pid=Api&P=0&h=180",
+    "https://tse2.mm.bing.net/th?id=OIP.IC1NdOkWY0OrihmYJW_5vwAAAA&pid=Api&P=0&h=180",
      "https://tse4.mm.bing.net/th?id=OIP.jx9vvPZ6Lv8J93U0Bpq1aQHaEi&pid=Api&P=0&h=180",
-        "https://tse2.mm.bing.net/th?id=OIP.f1sX1oVa__4gWob-v__WwwHaEK&pid=Api&P=0&h=180",
-        "https://tse4.mm.bing.net/th?id=OIP.1HnoX8xL32Ejdgyr6Jk9jwHaEN&pid=Api&P=0&h=180",
-        "https://tse2.mm.bing.net/th?id=OIP.76PwW1m9Ak_XCWp52zl5RQHaEK&pid=Api&P=0&h=180",
-        "https://tse3.mm.bing.net/th?id=OIP.URZHOwixw5UOC2SxAWQq0AHaEK&pid=Api&P=0&h=180",
-        "https://tse3.mm.bing.net/th?id=OIP.JjrFHDmztOCeCZjxXr_ptwHaEK&pid=Api&P=0&h=180",
-        "https://tse1.mm.bing.net/th?id=OIP.dBODwnjxZdd1C-xutzG7NwHaEK&pid=Api&P=0&h=180"
 
 ];
 
 let melodyTitles=[
     "Em sandheham ledhu",
     "adhento ganni vunnapaatu",
-    "Anuvanuvuu",
-    "Kadalalle",
-    "Choosale Kallarra",
-    "Ninnu chuse Anandamlo",
-    "ye Kannulu Choodani",
-    "Kannuladha",
-    "Adiga Adiga",
-    "Nee Paata Madhuram"
+    "Kadalalle"
 ];
 
 let vibeSongs=[
     "song111.mp3",
     "song222.mp3",
-    "song333.mp3",
-    "song444.mp3",
-    "song555.mp3",
-    "song666.mp3",
-    "song777.mp3"
+    "song333.mp3"
 
 
 ];
 
 let vibeImages=[
-    "Image111.jpg",
-    "Image222.jpg",
-    "Image333.jpg",
-    "https://tse4.mm.bing.net/th?id=OIP.Jnbdt1A48yBs7rFykhhoswHaEK&pid=Api&P=0&h=180",
-    "https://tse3.mm.bing.net/th?id=OIP.9cg5YtGdvDa6u_JAnXr1vwAAAA&pid=Api&P=0&h=180",
-    "https://tse1.mm.bing.net/th?id=OIP.0iepaP39eLv9V9MHJgFLQQHaHa&pid=Api&P=0&h=180",
-    "https://tse4.mm.bing.net/th?id=OIP.sl-kt7z3zvroIw4q1Aof_QHaEK&pid=Api&P=0&h=180",
-
-
-
-    
+    "https://tse3.mm.bing.net/th?id=OIP.pdF6qXaQWCt8w8xevTu22AHaEK&pid=Api&P=0&h=180",
+    "https://tse4.mm.bing.net/th?id=OIP.mkB-Xxex0j4AGP9IjzYOowHaFj&pid=Api&P=0&h=180",
+    "https://tse1.mm.bing.net/th?id=OIF.3GPyGLm2w5baxDNYg1%2fmVw&pid=Api&P=0&h=180"
 ];
 
 let vibeTitles=["Golden sparrow",
     "Manasilaayo",
-    "pippi pippi Dum Dum",
-    "Oy!Oy",
-    "jaragandi",
-    "Sooseki",
-    "Mass Raja"
-    
+    "pippi pippi Dum Dum"
 ];
 
 
